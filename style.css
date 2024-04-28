@@ -84,6 +84,10 @@ header {
     li {
       font-size: 1.25rem;
       margin-right: 1rem;
+      a {
+        text-decoration: none;
+        color: darkslategray;
+      }
     }
 
     li:last-child {
